@@ -1,0 +1,6 @@
+{
+  "name": "Learn JavaScript",
+  "description": "Learn. Code. Build. Master JavaScript by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
